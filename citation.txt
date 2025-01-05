@@ -1,0 +1,6 @@
+@article{REPO368,
+    author = "Bai, Fan and Du, Yuxin and Huang, Tiejun and Meng, Max Q-H and Zhao, Bo",
+    journal = "arXiv preprint arXiv:2404.00578",
+    title = "{M3d: Advancing 3d medical image analysis with multi-modal large language models}",
+    year = "2024"
+}
